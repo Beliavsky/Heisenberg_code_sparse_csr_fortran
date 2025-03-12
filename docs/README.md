@@ -1,5 +1,5 @@
-# Heisenberg spin models and entalgement entropy measurments 
-# Fotran version made with Maciej Bieniek
+# Heisenberg spin models and entanglement entropy measurements 
+# Fortran version made with Maciej Bieniek
 
 ## Research Project: Twistronics - research on new quantum simulators
 
@@ -15,10 +15,9 @@ List of topics:
 * Graphs of Heisenberg spins 
 * Density matrix from Heisenberg spin chain 
 * Reduced density matrix calculation from Heisenberg 1D spin chain 
-* Calculation of entalgement entropy of the corresponding subsytems
-* Generation of Heisenberg Hamiltonian for CSR3 format for spare matrices
-* Diagonalization of spare matrices by different methods: Lanczos and FEAST
+* Calculation of entangleement entropy of the corresponding subsytems
+* Generation of Heisenberg Hamiltonian for CSR3 format for sparse matrices
+* Diagonalization of sparse matrices by different methods: Lanczos and FEAST
 * Using Sparse BLAS for permuting Hamiltonian
-* 
 
 JJ 2022
